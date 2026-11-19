@@ -24,14 +24,13 @@
 
 ## About
 
-Final-year **B.Tech Computer Science** student at **VIT Bhopal**, interested in building intelligent systems with Machine Learning, Deep Learning and Computer Vision, and in applying AI to geospatial problems.
-
-|  |  |
-|:--|:--|
-| 🔭 **Currently** | Building a behavioural biometrics deep learning model |
-| 📚 **Learning** | GenAI and AI engineering: LLMs, RAG, deployment |
-| 🎯 **Looking for** | ML / Computer Vision internships |
-
+- 🎓 B.Tech Computer Science, **4th year at VIT Bhopal**
+- 🧠 Curious about **AI, Machine Learning, Deep Learning and Computer Vision**
+- 🚀 Love learning new technologies and **putting them to use** in real projects
+- 🔍 Enjoy researching new ideas and digging into how things work
+- 🔭 Currently building a behavioral biometrics deep learning model
+- 🌱 Currently learning GenAI and AI engineering
+- 🎯 Looking for **ML / AI / Computer Vision internships**
 ---
 
 ## Projects
