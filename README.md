@@ -28,7 +28,7 @@ Final-year **B.Tech Computer Science** student at **VIT Bhopal**, interested in 
 
 |  |  |
 |:--|:--|
-| 🔭 **Currently** | Building a crop classification and irrigation advisory system with Sentinel-2 and SAR imagery |
+| 🔭 **Currently** | Building a behavioural biometrics deep learning model |
 | 📚 **Learning** | GenAI and AI engineering: LLMs, RAG, deployment |
 | 🎯 **Looking for** | ML / Computer Vision internships |
 
