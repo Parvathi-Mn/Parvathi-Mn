@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Parvathi%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Deep%20Learning&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=190&section=header&text=Parvathi%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Deep%20Learning&descSize=18&descAlignY=58" width="100%"/>
 
 <img src="assets/avatar_pro.png" width="130" alt="Parvathi"/>
 
@@ -169,6 +169,6 @@ B.Tech, Computer Science Engineering · 2023 – 2027
 
 <sub>Open to internships and collaborations · <a href="https://www.linkedin.com/in/parvathi-m-a1b684289/">Let's connect</a> · Always learning. Always building. ✨</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=90&section=footer" width="100%"/>
 
 </div>
