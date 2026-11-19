@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/avatar_pro.png" width="100%" />
+<img src="assets/avatar_pro.png" width="50%" />
 
 # Hi, I'm Parvathi 👋
 
