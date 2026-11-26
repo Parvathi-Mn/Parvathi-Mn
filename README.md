@@ -89,8 +89,7 @@ ISRO Bharatiya Antariksh Hackathon 2026 (PS-06) using optical and SAR imagery. *
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:59171b,50:9b4548,100:fed7b8&height=90&section=footer" width="100%"/>
-</div>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,pytorch,opencv,sklearn,fastapi,react,git,github,aws,linux,vscode&perline=7" alt="Tech stack icons"/></div>
 
 <div align="center">
 
@@ -168,6 +167,5 @@ B.Tech, Computer Science Engineering · 2023 – 2027
 
 <sub>Open to internships and collaborations · <a href="https://www.linkedin.com/in/parvathi-m-a1b684289/">Let's connect</a> · Always learning. Always building. ✨</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=90&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:59171b,50:9b4548,100:fed7b8&height=90&section=footer" width="100%"/>
 </div>
