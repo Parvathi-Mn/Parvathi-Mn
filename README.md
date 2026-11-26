@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=190&section=header&text=Parvathi%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Deep%20Learning&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:59171b,50:9b4548,100:fed7b8&height=190&section=header&text=Parvathi%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Deep%20Learning&descSize=18&descAlignY=58" width="100%"/>
 
 <img src="assets/avatar_pro.png" width="130" alt="Parvathi"/>
 
@@ -89,8 +89,7 @@ ISRO Bharatiya Antariksh Hackathon 2026 (PS-06) using optical and SAR imagery. *
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,pytorch,opencv,sklearn,fastapi,react,git,github,aws,linux,vscode&perline=7" alt="Tech stack icons"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:59171b,50:9b4548,100:fed7b8&height=90&section=footer" width="100%"/>
 </div>
 
 <div align="center">
