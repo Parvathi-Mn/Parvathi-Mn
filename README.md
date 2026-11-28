@@ -10,6 +10,11 @@
 
 <br>
 
+<a href="https://portfolio-parvathi-m.vercel.app"><b>🌐 View my portfolio →</b></a>
+
+<br><br>
+
+<a href="https://portfolio-parvathi-m.vercel.app"><img src="https://img.shields.io/badge/Portfolio-263B2A?style=for-the-badge&logo=vercel&logoColor=F3EBDD"/></a>
 <a href="https://www.linkedin.com/in/parvathi-m-a1b684289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:parvathim213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Parvathi-Mn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -17,7 +22,7 @@
 
 <br><br>
 
-[About](#-about) · [Experience](#-experience) · [Projects](#-projects) · [Stack](#-tech-stack) · [Stats](#-github-stats) · [Achievements](#-achievements)
+[**Portfolio**](https://portfolio-parvathi-m.vercel.app) · [About](#-about) · [Experience](#-experience) · [Projects](#-projects) · [Stack](#-tech-stack) · [Stats](#-github-stats) · [Achievements](#-achievements)
 
 </div>
 
@@ -40,9 +45,9 @@
 **Research Intern** · IIT Kharagpur, Computer Vision & Deep Learning (RCG-SIDM)
 *May – June 2026 · Supervisor: Prof. Bharath Haridas Aithal*
 
-- Worked on a **real-time instance segmentation** model, combining state-space modelling, attention and sparse Mixture-of-Experts on top of YOLO
+- Worked on a **real-time instance segmentation** model
 - Trained and benchmarked multiple architectures under identical conditions on NVIDIA GPUs
-- Built an automated hyperparameter tuning setup and a unified evaluation pipeline
+  
 
 ---
 
